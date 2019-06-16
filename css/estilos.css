@@ -2,7 +2,7 @@ body
 {
     color:steelblue;
     text-align: center;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Arial';
     color: steelblue;
 }
 
@@ -23,7 +23,7 @@ body
     font-size: 0.8em;
 }
 
-#container
+.container
 {
     width: 70%;
     padding: 0;
@@ -32,7 +32,7 @@ body
     margin: 0 auto;
 }
 
-#container h1
+.container h1
 {
     font-size: 20px;
 }
